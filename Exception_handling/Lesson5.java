@@ -10,7 +10,7 @@ public class Lesson5 {
         }
         catch(ArithmeticException e){
             e.printStackTrace();//java.lang.ArithmeticException: / by zero
-            //at GFG.main(File.java:10)
+            //at Lesson5.main(File.java:10)
         }
     }
 }
