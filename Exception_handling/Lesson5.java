@@ -1,5 +1,5 @@
 package Exception_handling;
-import java.io.*;
+
 //program to print the exception information using printStackTrace() method
 public class Lesson5 {
     public static void main (String[] args) {

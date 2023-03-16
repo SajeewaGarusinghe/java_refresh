@@ -37,11 +37,11 @@ class Child3 extends Parent {
     }
 }
 class Child4 extends Parent {
-    @Override
-        // compile-time error
-        // issue while throwing parent exception
-    void m1() throws Exception
-    {
-        System.out.println("From child4 m1()");
-    }
+//    @Override
+//        // compile-time error
+//        // issue while throwing parent exception
+//    void m1() throws Exception
+//    {
+//        System.out.println("From child4 m1()");
+//    }
 }
